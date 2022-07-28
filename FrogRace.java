@@ -7,7 +7,7 @@ class Main {
     int f1distance = 0; int f2distance = 0;
     int f1jump; int f2jump;
     Frog f1 = new Frog("Joffrey");
-    Frog f2 = new Frog("Harry");
+    Frog f2 = new Frog("Mike");
     System.out.println(f1);
     System.out.println(f2);
     System.out.println("Do you Want to Cheer for " + f1.getName() + "? Give a True or False Answer (ex: true/false)");
